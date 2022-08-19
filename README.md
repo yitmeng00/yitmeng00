@@ -37,24 +37,17 @@ switch ("describeMyself") {
 
 <h2>Tech Stack</h2>
 
-- C#, PHP
+- <b>Front-end:</b> HTML5, CSS3, JavaScript, Bootstrap
 
-- ASP. NET Web API, REST API, Swagger, Postman
+- <b>Back-end:</b> C#, PHP, MongoDB, MySQL, ASP. NET Web API, REST API, Swagger, Postman
 
-- HTML5, CSS3, JavaScript, Bootstrap, WordPress
+- <b>Collaboration:</b> Agile Environment, Git, GitHub, UML Tools
 
-- Visual Studio, Sublime Text, Android Studio
+- <b>Design:</b> Figma, Adobe Photoshop CC, Adobe Illustrator CC, Adobe Lightroom CC, Adobe Premiere Pro CC
 
-- UML Tools
+- <b>CMS:</b> WordPress
 
-- Agile Environment
-
-- MongoDB, MySQL
-
-- Git, GitHub
-
-- Figma, Adobe Photoshop CC, Adobe Illustrator CC, Adobe Lightroom CC, Adobe Premiere Pro CC
-
+- <b>IDE:</b> Visual Studio, Sublime Text, Android Studio
 
 ## Inspirations
 
