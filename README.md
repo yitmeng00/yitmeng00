@@ -1,14 +1,11 @@
-![image](https://github.com/yitmeng00/yitmeng00/blob/ce17f3a5b9f40727cf78a2bf3d46dfbaa10727cc/images/robin-glauser-zP7X_B86xOg-unsplash.jpg)
 <h1 align="center">Hi 👋, I'm Ivan</h1>
-<h3 align="center">Software Engineer at Aspen Spectra</h3><br>
+<h3 align="center">Full Stack Software Engineer at Aspen Spectra</h3><br>
 
 ## About Me
 
-- Graduated from UCSI University with major in Bachelor of Computer Science :school:
+- A curious mind with an insatiable appetite for learning and a passion for exploring the latest technologies :sparkles:
 
-- Currently focusing in IoT industries, learning and researching about Smart IoT Technologies :satellite:
-
-- Passionate about developing Application, Software and System :globe_with_meridians:
+- Currently focusing on building user-friendly, reliable and scalable mobile and web applications that can make positive impact to the users :globe_with_meridians:
 
 - Photography Enthusiast :camera:
   
@@ -16,30 +13,12 @@
 
 - Sports 🏸 🧗‍♂️ :swimmer:
 
-```javascript
-
-switch ("describeMyself") {
-  case "Adventurous":
-    console.log(true);
-    break;
-  case "Energetic":
-    console.log(true);
-    break;
-  case "Enthusiasm":
-    console.log(true);
-    break;
-  default:
-    console.log("Adventurous, Energetic, Enthusiasm");
-    break;
-}
-
-```
 
 <h2>Tech Stack</h2>
 
-- <b>Front-end:</b> HTML5, CSS3, JavaScript, Bootstrap
+- <b>Front-end:</b> HTML5, CSS3, JavaScript, Bootstrap, React.js
 
-- <b>Back-end:</b> C#, PHP, MongoDB, MySQL, ASP. NET Web API, REST API, Swagger, Postman
+- <b>Back-end:</b> C#, PHP, MongoDB, MySQL, ASP. NET Web API, REST API, Swagger, Postman, Node.js
 
 - <b>Collaboration:</b> Agile Environment, Git, GitHub, UML Tools
 
