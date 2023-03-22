@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
-<h3 align="center">Full Stack Software Engineer at Aspen Spectra</h3><br>
+<h3 align="center">Full Stack Software Engineer</h3><br>
 
 ## About Me
 
