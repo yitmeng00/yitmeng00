@@ -5,7 +5,7 @@
 
 - A curious mind with an insatiable appetite for learning and a passion for exploring the latest technologies :sparkles:
 
-- Currently focusing on building user-friendly, reliable and scalable mobile and web applications that can make positive impact to the users :globe_with_meridians:
+- Focusing on building user-friendly, reliable and scalable mobile and web applications that can make positive impact to the world :globe_with_meridians:
 
 - Photography Enthusiast :camera:
   
@@ -13,26 +13,28 @@
 
 - Sports 🏸 🧗‍♂️ :swimmer:
 
+```javascript
 
+const funFact = "One of my favorite things to do is to go out on photo walks, exploring new locations and capturing interesting scenes and landscapes.";
+
+console.log(funFact);
+
+```
+
+<br>
 <h2>Tech Stack</h2>
 
-- <b>Front-end:</b> HTML5, CSS3, JavaScript, Bootstrap, React.js
+- <b>Front-End</b> [ HTML5, CSS3, JavaScript, Bootstrap, React.js ]
 
-- <b>Back-end:</b> C#, PHP, MongoDB, MySQL, ASP. NET Web API, REST API, Swagger, Postman, Node.js
+- <b>Back-End</b> [ PHP, NodeJS, ExpressJS, MongoDB, MySQL, REST API ]
 
-- <b>Collaboration:</b> Agile Environment, Git, GitHub, UML Tools
+- <b>Project Management</b> [ Agile Environment, Jira, UML Tools ]
 
-- <b>Design:</b> Figma, Adobe Photoshop CC, Adobe Illustrator CC, Adobe Lightroom CC, Adobe Premiere Pro CC
+- <b>Version Control</b> [ Git, GitHub, GitHub Desktop ]
 
-- <b>CMS:</b> WordPress
+- <b>Design</b> [ Figma, Adobe Photoshop CC, Adobe Illustrator CC ]
 
-- <b>IDE:</b> Visual Studio, Sublime Text, Android Studio
-
-## Inspirations
-
-> "Wear your failures as a badge of honor." ― Sundar Pichai, CEO Of Google
- 
-> "Everything you can imagine is real." ― Pablo Picasso
+- <b>CMS</b> [ WordPress ]
 
 <br>
 <h2 align="center">Let's Connect :handshake:</h2>
