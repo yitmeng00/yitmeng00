@@ -3,7 +3,7 @@
 
 ## About Me
 
-- A curious mind with an insatiable appetite for learning and a passion for exploring the latest technologies :sparkles:
+- Has a curious mind with an insatiable appetite for learning and a passion for exploring the latest technologies :sparkles:
 
 - Focusing on building user-friendly, reliable and scalable mobile and web applications that can make positive impact to the world :globe_with_meridians:
 
@@ -15,7 +15,7 @@
 
 ```javascript
 
-const funFact = "One of my favorite things to do is to go out on photo walks, exploring new locations and capturing interesting scenes and landscapes.";
+const funFact = "One of my favorite activities to do is to go out on photo walks, discovering new places and capturing eye-catching landscapes.";
 
 console.log(funFact);
 
