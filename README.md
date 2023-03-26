@@ -36,6 +36,8 @@ console.log(funFact);
 
 - <b>CMS</b> [ WordPress ]
 
+[![My Skills](https://skillicons.dev/icons?i=react,express,nodejs,php,html,css,bootstrap,js,jquery,mongodb,mysql,figma,git,github,postman,wordpress,ai,ps,pr&perline=10)](https://skillicons.dev)
+
 <br>
 <h2 align="center">Let's Connect :handshake:</h2>
 <p align="center">
