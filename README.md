@@ -5,7 +5,7 @@
 
 - Has a curious mind with an insatiable appetite for learning and a passion for exploring the latest technologies :sparkles:
 
-- Focusing on building user-friendly, reliable and scalable mobile and web applications that can make positive impact to the world :globe_with_meridians:
+- Focusing on building user-friendly, reliable and scalable system and applications that can make positive impact to the world :globe_with_meridians:
 
 - Photography Enthusiast :camera:
   
