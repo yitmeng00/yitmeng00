@@ -15,9 +15,14 @@
 
 ```javascript
 
-const funFact = "One of my favorite activities to do is to go out on photo walks, discovering new places and capturing eye-catching landscapes.";
+const FUNFACTS = [
+    "I can spend up to 2 / 3 hours at the same location to capture the perfect picture of a scenery or attraction, while most people only stay for 5 minutes.",
+    "I once traveled overseas alone for a week, even though I didn't understand the language at all."
+];
 
-console.log(funFact);
+FUNFACTS.forEach((funfact, index) => {
+    console.log(`Fun Fact ${index + 1}: ${funfact}`);
+});
 
 ```
 
