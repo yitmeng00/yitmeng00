@@ -3,15 +3,15 @@
 
 ## About Me
 
-- Has a curious mind with an insatiable appetite for learning and a passion for exploring the latest technologies :sparkles:
+- Has a curious mind with an insatiable appetite for learning and a passion for exploring the latest technologies ✨
 
-- Focusing on building user-friendly, reliable and scalable system and applications that can make positive impact to the world :globe_with_meridians:
+- Focusing on building user-friendly, reliable and scalable system and applications that can make positive impact to the world 🌐
 
-- Photography Enthusiast :camera:
+- Photography Enthusiast 📷
   
-- Exploring the World :earth_asia:
+- Exploring the World 🌏
 
-- Sports 🏸 🧗‍♂️ :swimmer:
+- Sports 🏸 🎾 🧗‍♂️ 🏊‍♂️ 🏃
 
 ```javascript
 
