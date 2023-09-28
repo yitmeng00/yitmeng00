@@ -29,7 +29,7 @@ FUNFACTS.forEach((funfact, index) => {
 <br>
 <h2>Tech Stack</h2>
 
-- <b>Front-End</b> [ HTML5, CSS3, JavaScript, Bootstrap, React.js ]
+- <b>Front-End</b> [ HTML5, CSS3, JavaScript, Bootstrap, Tailwind, React.js ]
 
 - <b>Back-End</b> [ PHP, NodeJS, ExpressJS, MongoDB, MySQL, REST API ]
 
@@ -41,7 +41,7 @@ FUNFACTS.forEach((funfact, index) => {
 
 - <b>CMS</b> [ WordPress ]
 
-[![My Skills](https://skillicons.dev/icons?i=react,express,nodejs,php,html,css,bootstrap,js,jquery,mongodb,mysql,figma,git,github,postman,wordpress,ai,ps,pr&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,express,nodejs,php,html,css,bootstrap,tailwind,js,jquery,mongodb,mysql,figma,git,github,postman,wordpress,ai,ps,pr&perline=10)](https://skillicons.dev)
 
 <br>
 <h2 align="center">Let's Connect :handshake:</h2>
