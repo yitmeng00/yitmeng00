@@ -3,9 +3,11 @@
 
 ## About Me
 
+- Currently focusing on MERN stack development 💻
+
 - Has a curious mind with an insatiable appetite for learning and a passion for exploring the latest technologies ✨
 
-- Focusing on building user-friendly, reliable and scalable system and applications that can make positive impact to the world 🌐
+- Lifelong vision: Build user-friendly, reliable, and scalable systems and applications that have a positive impact on the world. 🌐
 
 - Photography Enthusiast 📷
   
@@ -31,15 +33,17 @@ FUNFACTS.forEach((funfact, index) => {
 
 - <b>Front-End</b> [ HTML5, CSS3, JavaScript, Bootstrap, Tailwind, React.js ]
 
-- <b>Back-End</b> [ PHP, NodeJS, ExpressJS, MongoDB, MySQL, REST API ]
+- <b>Back-End</b> [ PHP, NodeJS, ExpressJS ]
 
-- <b>Project Management</b> [ Agile Environment, Jira, UML Tools ]
+- <b>Databases</b> [ MongoDB, MySQL ]
 
-- <b>Version Control</b> [ Git, GitHub, GitHub Desktop ]
+- <b>API Development and Integration</b> [ RESTful API ]
+
+- <b>Version Control and Collaboration</b> [ Git, GitHub, Agile Environment, Jira ]
 
 - <b>Design</b> [ Figma, Adobe Photoshop CC, Adobe Illustrator CC ]
 
-- <b>CMS</b> [ WordPress ]
+- <b>Content Management System (CMS)</b> [ WordPress ]
 
 [![My Skills](https://skillicons.dev/icons?i=react,express,nodejs,php,html,css,bootstrap,tailwind,js,jquery,mongodb,mysql,figma,git,github,postman,wordpress,ai,ps,pr&perline=10)](https://skillicons.dev)
 
