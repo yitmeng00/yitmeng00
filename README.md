@@ -3,11 +3,11 @@
 
 ## About Me
 
-- Currently focusing on MERN stack development 💻
+- Strong passion in database architecture and optimization. I've designed and implemented end-to-end applications, integrating solutions across the entire software stack, and successfully reduced an average 45% in query execution time through database optimization. 💻
 
 - Has a curious mind with an insatiable appetite for learning and a passion for exploring the latest technologies ✨
 
-- Lifelong vision: Build user-friendly, reliable, and scalable systems and applications that have a positive impact on the world. 🌐
+- Lifelong vision: My focus on continual learning drives me to deliver impactful and scalable software solutions. 🌐
 
 - Photography Enthusiast 📷
   
@@ -31,21 +31,21 @@ FUNFACTS.forEach((funfact, index) => {
 <br>
 <h2>Tech Stack</h2>
 
-- <b>Front-End</b> [ HTML5, CSS3, JavaScript, Bootstrap, Tailwind, React.js ]
+- <b>Front-End</b> [ HTML, CSS, JavaScript, jQuery, Bootstrap, Tailwind, React ]
 
-- <b>Back-End</b> [ PHP, NodeJS, ExpressJS ]
+- <b>Back-End</b> [ PHP, Node.js, Express ]
 
 - <b>Databases</b> [ MongoDB, MySQL ]
 
 - <b>API Development and Integration</b> [ RESTful API ]
 
-- <b>Version Control and Collaboration</b> [ Git, GitHub, Agile Environment, Jira ]
+- <b>Version Control and Collaboration</b> [ Git, Agile Environment ]
 
-- <b>Design</b> [ Figma, Adobe Photoshop CC, Adobe Illustrator CC ]
+- <b>Design</b> [ Figma ]
 
 - <b>Content Management System (CMS)</b> [ WordPress ]
 
-[![My Skills](https://skillicons.dev/icons?i=react,express,nodejs,php,html,css,bootstrap,tailwind,js,jquery,mongodb,mysql,figma,git,github,postman,wordpress,ai,ps,pr&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,express,nodejs,php,html,css,bootstrap,tailwind,js,jquery,mongodb,mysql,figma,git,wordpress,pr&perline=10)](https://skillicons.dev)
 
 <br>
 <h2 align="center">Let's Connect :handshake:</h2>
