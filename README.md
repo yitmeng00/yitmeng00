@@ -45,7 +45,7 @@ FUNFACTS.forEach((funfact, index) => {
 
 - <b>Content Management System (CMS)</b> [ WordPress ]
 
-[![My Skills](https://skillicons.dev/icons?i=react,express,nodejs,php,html,css,bootstrap,tailwind,js,jquery,mongodb,mysql,figma,git,wordpress&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,express,nodejs,php,html,css,bootstrap,tailwind,js,jquery,mongodb,mysql,figma,git,wordpress&perline=8)](https://skillicons.dev)
 
 <br>
 <h2 align="center">Let's Connect :handshake:</h2>
