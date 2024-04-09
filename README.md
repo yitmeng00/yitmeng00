@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
-<h3 align="center">Full Stack Developer</h3><br>
+<h3 align="center">Full Stack Software Engineer</h3><br>
 
 ## About Me
 
-- Strong passion in database architecture and optimization. I've designed and implemented end-to-end applications, integrating solutions across the entire software stack, and successfully reduced an average 45% in query execution time through database optimization. 💻
+- I've successfully designed and developed several end-to-end applications, integrating solutions across the entire software stack. 💻
+
+- Strong passion in database architecture and optimization. 💻
 
 - Has a curious mind with an insatiable appetite for learning and a passion for exploring the latest technologies ✨
 
@@ -31,21 +33,17 @@ FUNFACTS.forEach((funfact, index) => {
 <br>
 <h2>Tech Stack</h2>
 
-- <b>Front-End</b> [ HTML, CSS, JavaScript, jQuery, Bootstrap, Tailwind, React ]
+- <b>Front-End</b> [ React, JavaScript, TypeScript, jQuery, HTML, CSS, Bootstrap, Tailwind ]
 
 - <b>Back-End</b> [ PHP, Node.js, Express ]
 
-- <b>Databases</b> [ MongoDB, MySQL ]
-
-- <b>API Development and Integration</b> [ RESTful API ]
-
-- <b>Version Control and Collaboration</b> [ Git, Agile Environment ]
+- <b>Databases</b> [ MongoDB, MySQL, Redis ]
 
 - <b>Design</b> [ Figma ]
 
-- <b>Content Management System (CMS)</b> [ WordPress ]
+- <b>Others</b> [ Agile, Git, Jest, REST, WebSocket, WordPress ]
 
-[![My Skills](https://skillicons.dev/icons?i=react,express,nodejs,php,html,css,bootstrap,tailwind,js,jquery,mongodb,mysql,figma,git,wordpress&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,ts,jquery,html,css,bootstrap,tailwind,php,nodejs,express,mongodb,mysql,redis,figma,git,jest,wordpress&perline=9)](https://skillicons.dev)
 
 <br>
 <h2 align="center">Let's Connect :handshake:</h2>
