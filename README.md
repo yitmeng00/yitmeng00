@@ -52,9 +52,6 @@ FUNFACTS.forEach((funfact, index) => {
 <a href="mailto:ivanwong810520@gmail.com">
   <img src="https://github.com/yitmeng00/yitmeng00/blob/c6fa27ad94d0ead851a5bb4745a8ccd0f8d47a4b/images/gmail.png" alt="Gmail" height="40" width="40">
 </a>&nbsp;
-<a href="https://www.facebook.com/yitmeng0207/">
-  <img src="https://github.com/yitmeng00/yitmeng00/blob/c6fa27ad94d0ead851a5bb4745a8ccd0f8d47a4b/images/facebook.png" alt="Facebook" height="40" width="40">
-</a>&nbsp;
 <a href="https://www.instagram.com/yitmeng_w/">
   <img src="https://github.com/yitmeng00/yitmeng00/blob/c6fa27ad94d0ead851a5bb4745a8ccd0f8d47a4b/images/instagram.png" alt="Instagram" height="40" width="40">
 </a>&nbsp;
