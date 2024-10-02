@@ -3,8 +3,6 @@
 
 ## About Me
 
-- I've successfully designed and developed several end-to-end applications, integrating solutions across the entire software stack. 💻
-
 - Strong passion in database architecture and optimization. 💻
 
 - Has a curious mind with an insatiable appetite for learning and a passion for exploring the latest technologies ✨
@@ -33,17 +31,17 @@ FUNFACTS.forEach((funfact, index) => {
 <br>
 <h2>Tech Stack</h2>
 
-- <b>Front-End</b> [ React, JavaScript, TypeScript, jQuery, HTML, CSS, Bootstrap, Tailwind ]
+- <b>Front-End</b> [ React, Next, Vue, JS, TS, Tailwind ]
 
-- <b>Back-End</b> [ PHP, Node.js, Express ]
+- <b>Back-End</b> [ Node, Express, PHP ]
 
 - <b>Databases</b> [ MongoDB, MySQL, Redis ]
 
 - <b>Design</b> [ Figma ]
 
-- <b>Others</b> [ Agile, Git, Jest, REST, WebSocket, WordPress ]
+- <b>Others</b> [ Agile, Git, Jest, WordPress ]
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,ts,jquery,html,css,bootstrap,tailwind,php,nodejs,express,mongodb,mysql,redis,figma,git,jest,wordpress&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,vue,js,ts,tailwind,nodejs,express,php,mongodb,mysql,redis,figma,git,jest,wordpress&perline=8)](https://skillicons.dev)
 
 <br>
 <h2 align="center">Let's Connect :handshake:</h2>
