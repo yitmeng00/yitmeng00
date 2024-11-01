@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
-<h3 align="center">Full Stack Software Engineer</h3><br>
+<h3 align="center">Full-stack Developer</h3><br>
 
 ## About Me
 
@@ -18,6 +18,7 @@
 ```javascript
 
 const FUNFACTS = [
+    "I have a quirky habit of documenting my life. I love capturing everything in my album—the shops I visit, the food I eat, the streets I walk, and even the daily items I buy. It’s my way of turning little moments into lasting memories!",
     "I can spend up to 2 / 3 hours at the same location to capture the perfect picture of a scenery or attraction, while most people only stay for 5 minutes.",
     "I once traveled overseas alone for a week, even though I didn't understand the language at all."
 ];
