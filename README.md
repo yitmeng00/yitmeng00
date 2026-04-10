@@ -3,7 +3,7 @@
 
 ## About Me
 
-- Strong passion in database architecture and optimization. 💻
+- Strong passion in solution architecture and cloud infrastructure. 💻
 
 - Has a curious mind with an insatiable appetite for learning and a passion for exploring the latest technologies ✨
 
@@ -18,17 +18,9 @@
 <br>
 <h2>Tech Stack</h2>
 
-- <b>Front-End</b> [ React, Next, Vue, JS, TS, Tailwind ]
+JavaScript, TypeScript, C#, PHP | React, Next.js, Vue.js, Tailwind, Sass, SWR | Node.js, Express, .NET, REST APIs | MySQL, MongoDB | Docker, AWS, Cloud Infrastructure, TOGAF, Git, Jest, WordPress
 
-- <b>Back-End</b> [ Node, Express, PHP ]
-
-- <b>Databases</b> [ MongoDB, MySQL, Redis ]
-
-- <b>Design</b> [ Figma ]
-
-- <b>Others</b> [ Agile, Git, Jest, WordPress ]
-
-[![My Skills](https://skillicons.dev/icons?i=react,next,vue,js,ts,tailwind,nodejs,express,php,mongodb,mysql,redis,figma,git,jest,wordpress&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,cs,php,react,next,vue,tailwind,sass,nodejs,express,dotnet,mysql,mongodb,docker,aws,git,jest,wordpress&perline=10)](https://skillicons.dev)
 
 <br>
 <h2 align="center">Let's Connect :handshake:</h2>
@@ -38,9 +30,6 @@
 </a>&nbsp;
 <a href="mailto:ivanwong810520@gmail.com">
   <img src="https://github.com/yitmeng00/yitmeng00/blob/c6fa27ad94d0ead851a5bb4745a8ccd0f8d47a4b/images/gmail.png" alt="Gmail" height="40" width="40">
-</a>&nbsp;
-<a href="https://www.instagram.com/yitmeng_w/">
-  <img src="https://github.com/yitmeng00/yitmeng00/blob/c6fa27ad94d0ead851a5bb4745a8ccd0f8d47a4b/images/instagram.png" alt="Instagram" height="40" width="40">
 </a>&nbsp;
 </p>
 
