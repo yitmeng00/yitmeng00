@@ -7,8 +7,7 @@
 
 ## 👨‍💻 About Me
 
-* 💼 Full Stack Software Engineer with **2+ years** of experience delivering end-to-end web solutions
-* 🎯 **1.5 years specialized Frontend Development**, crafting responsive and user-friendly interfaces
+* 💼 Full Stack Software Engineer with **4+ years** of experience delivering end-to-end web solutions
 * ☁️ **AWS Certified Solutions Architect – Associate**
 * 📈 Currently focused on advancing into a **Solution Architect** role
 * 🧠 Curious learner with a passion for exploring modern technologies
