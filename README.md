@@ -1,5 +1,5 @@
 <h1 align="center">Hello, Ivan here</h1>
-<h3 align="center">🚀 Full-Stack Software Engineer</h3>
+<h3 align="center">🚀 Software Architect</h3>
 
 <p align="center">
   <em>Building scalable solutions that bridge business needs with technology</em>
@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-* 💼 Full Stack Software Engineer with **4+ years** of experience delivering end-to-end web solutions
+* 💼 **4+ years** of full-stack experience delivering end-to-end web solutions
 * ☁️ **AWS Certified Solutions Architect – Associate**
 * 📈 Currently focused on advancing into a **Solution Architect** role
 * 🧠 Curious learner with a passion for exploring modern technologies
