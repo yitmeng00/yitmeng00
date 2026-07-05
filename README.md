@@ -58,10 +58,6 @@
   <em>Curiosity today. Innovation tomorrow.</em>
 </p>
 
-<p align="center">
-  📫 More about me: <a href="https://ivan-wong.vercel.app/">Portfolio Website</a>
-</p>
-
 <br />
 
 ⭐️ Credits: [Ivan Wong](https://github.com/yitmeng00)
