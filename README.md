@@ -5,11 +5,19 @@
   <em>Building scalable solutions that bridge business needs with technology</em>
 </p>
 
+<p align="center">
+  <a href="https://ivan-wong.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yitmengwong/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://unsplash.com/@yitmeng_w"><img src="https://img.shields.io/badge/Unsplash-000?style=for-the-badge&logo=unsplash&logoColor=white" /></a>
+</p>
+
+---
+
 ## 👨‍💻 About Me
 
 * 💼 **4+ years** of full-stack experience delivering end-to-end web solutions
 * ☁️ **AWS Certified Solutions Architect – Associate**
-* 📈 Currently focused on advancing into a **Solution Architect** role
+* 📈 Currently advancing into a **Solutions Architect** role, with a focus on enterprise architecture and system design
 * 🧠 Curious learner with a passion for exploring modern technologies
 * 🌍 Driven to build **impactful, scalable, real-world solutions**
 
@@ -19,41 +27,40 @@
 
 * 📷 Photography (my creative escape)
 * 🌏 Exploring new places and cultures
-* 🏸 Sports: Running, Badminton, Tennis, Climbing, Swimming
+* 🥾 Sports: Running, Hiking, Badminton, Tennis, Swimming
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+**Architecture & Design**
+`System Design & UML` `Solution Architecture` `REST API Design` `Disaster Recovery / High Availability Design` `Database Design` `Real-time Systems Architecture (WebSocket, event-driven patterns)`
 
-`JavaScript` `TypeScript` `C#` `PHP`
+**Cloud & Infrastructure**
+`AWS (EC2, S3, RDS, IAM, VPC)` `Docker / Containerization` `CI/CD Pipelines` `Real-time Monitoring & Observability`
 
-### 🎨 Frontend
+**Backend**
+`Node.js` `Express` `C#` `.NET` `PHP` `MySQL` `PostgreSQL` `MongoDB`
 
-`React` `Next.js` `Vue.js` `Tailwind CSS` `Sass` `SWR`
+**Frontend**
+`React` `Next.js` `Vue.js` `TypeScript` `JavaScript` `Tailwind` `Bootstrap` `Scss`
 
-### ⚙️ Backend
-
-`Node.js` `Express` `.NET` `REST APIs`
-
-### 🗄️ Databases
-
-`MySQL` `MongoDB`
-
-### ☁️ Cloud, DevOps & Tools
-
-`Docker` `AWS` `Cloud Infrastructure` `TOGAF` `Git` `Jest` `WordPress`
+**Delivery & Collaboration**
+`Agile` `Git` `Jest` `WordPress`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,cs,php,react,next,vue,tailwind,sass,nodejs,express,dotnet,mysql,mongodb,docker,aws,git,jest,wordpress&perline=10" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,nodejs,expressjs,cs,dotnet,php,mysql,postgresql,mongodb,react,nextjs,vuejs,ts,js,tailwind,bootstrap,sass,git,jest,wordpress&perline=11" />
 </p>
 
-<br /><br />
+---
 
-> Curiosity today. Innovation tomorrow.
+<p align="center">
+  <em>Curiosity today. Innovation tomorrow.</em>
+</p>
 
-**more about me**: [Portfolio Website](https://ivan-wong.vercel.app/)
+<p align="center">
+  📫 More about me: <a href="https://ivan-wong.vercel.app/">Portfolio Website</a>
+</p>
 
 <br />
 
